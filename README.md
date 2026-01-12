@@ -38,7 +38,7 @@ A single-page React application to search, track, and rate movies, TV shows, gam
 
 ```bash
 git clone https://github.com/sharjh/react-media-tracker
-cd media-tracker
+cd react-media-tracker
 npm install
 npm run dev
 ```
